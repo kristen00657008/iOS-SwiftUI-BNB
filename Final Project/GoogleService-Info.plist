@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>425702840912-omgleaonjur3nfp4elcci2b817ev2846.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.425702840912-omgleaonjur3nfp4elcci2b817ev2846</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkvAuEbRI7n3YCk5JVeQxUZyZCdkdUf9E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>425702840912</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Chase.Final-Project</string>
+	<key>PROJECT_ID</key>
+	<string>ios-final-project-52d8b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ios-final-project-52d8b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:425702840912:ios:d0db1afa365942b9b38f55</string>
+</dict>
+</plist>
